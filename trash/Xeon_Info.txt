@@ -1,0 +1,144 @@
+Платы на чипсете x99 поддерживают память DDR4 и процессоры 2011-3 (26XX v3)
+Huananzhi X99 Dual-F8D
+Huananzhi X99 Dual-T8D
+
+
+Платы на чипсете x79 поддерживают память DDR3 и процессоры 2011 серии (26XX v2)
+Huananzhi X79 Dual-8D
+Huananzhi X79 Dual-16D
+Huananzhi X79 Dual-4D
+
+
+
+Модель	DDR3	 Ядра / Потоки	Тактовая Частота	Turbo Boost		L3 Кэш	TDP
+Xeon E5 2623 v3		4 / 8			3.0 GHz				3.5 GHz		10 Мб	105 W
+Xeon E5 2637 v3		4 / 8			3.5 GHz				3.7 GHz		15 Мб	135 W
+Xeon E5 2620 v3		6 / 12			2.4 GHz				3.2 GHz		15 Мб	85 W
+Xeon E5 2643 v3		6 / 12			3.4 GHz				3.7 GHz		20 Мб	135 W
+Xeon E5 2628 v3		8 / 8			2.5 GHz				3.0 GHz		20 Мб	85 W
+Xeon E5 2618L v3	8 / 16			2.3 GHz				3.4 GHz		20 Мб	75 W
+Xeon E5 2630 v3		8 / 16			2.4 GHz				3.2 GHz		20 Мб	85 W
+Xeon E5 2622 v3		8 / 16			2.4 GHz				3.4 GHz		20 Мб	85 W
+Xeon E5 2640 v3		8 / 16			2.6 GHz				3.4 GHz		20 Мб	90 W
+Xeon e5 2667 v3		8 / 16			3.2 GHz				3.6 GHz		20 Мб	135 W
+Xeon E5 2650 v3		10 / 20			2.3 GHz				3.0 GHz		25 Мб	105 W
+Xeon E5 2660 v3		10 / 20			2.6 GHz				3.3 GHz		25 Мб	105 W
+Xeon E5 2663 v3		10 / 10			2.8 GHz				3.5 GHz		25 Мб	120 W
+Xeon E5 2666 v3	*	10 / 20			2.9 GHz				3.5 GHz		25 Мб	135 W
+Xeon E5 2687W v3	10 / 20			3.1 GHz				3.5 GHz		25 Мб	160 W
+Xeon E5 2685 v3		12 / 12			2.6 GHz				3.3 GHz		30 Мб	120 W
+Xeon E5 2670 v3		12 / 24			2.3 GHz				3.1 GHz		30 Мб	120 W
+Xeon E5 2676 v3	*	12 / 24			2.4 GHz				3.0 GHz		30 Мб	120 W
+Xeon E5 2673 v3	*	12 / 24			2.4 GHz				3.2 GHz		30 Мб	105 W
+Xeon E5 2678 v3	*	12 / 24			2.5 GHz				3.3 GHz		30 Мб	120 W
+Xeon E5 2680 v3		12 / 24			2.5 GHz				3.3 GHz		30 Мб	120 W
+Xeon E5 2690 v3		12 / 24			2.6 GHz				3.5 GHz		30 Мб	135 W
+Xeon E5 2683 v3		14 / 28			2.0 GHz				3.0 GHz		35 Мб	120 W
+Xeon E5 2695 v3		14 / 28			2.3 GHz				3.3 GHz		35 Мб	120 W
+Xeon E5 2697 v3		14 / 28			2.6 GHz				3.6 GHz		35 Мб	145 W
+Xeon E5 2698B v3	16 / 32			2.0 GHz				3.4 GHz		40 Мб	135 W
+Xeon E5 2698 v3		16 / 32			2.3 GHz				3.6 GHz		40 Мб	135 W
+Xeon E5 2698A v3	16 / 32			2.8 GHz				3.2 GHz		40 Мб	165 W
+Xeon E5 2686 v3	*	18 / 36			2.0 GHz				3.5 GHz		45 Мб	120 W
+Xeon E5 2699 v3		18 / 36			2.3 GHz				3.6 GHz		45 Мб	145 W
+Xeon E5 2696 v3	*	18 / 36			2.3 GHz				3.8 GHz		45 Мб	145 W
+
+
+
+Xeon E5 2666 v3	*	10 / 20			2.9 GHz				3.5 GHz		25 Мб	135 W
+Xeon E5 2690 v3		12 / 24			2.6 GHz				3.5 GHz		30 Мб	135 W
+Xeon E5 2697 v3		14 / 28			2.6 GHz				3.6 GHz		35 Мб	145 W
+
+
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+Совместимость/Форм-фактор совместимых плат у системника Cougar Panzer Max:
+Micro-ATX (244×244 мм), 
+Mini-ITX (170×170 мм), 
+Standard-ATX (305×244 мм)
+
+не поддерживает:
+E-ATX или Extended ATX (305×330 мм)
+
+
+
+HUANANZHI F8D PLUS
+300*320 мм E-ATX
+
+
+HUANANZHI F8D PLUS
+14 039,17 руб.	через 2 дня -7%   13 021,60 руб.
+https://aliexpress.ru/item/1005004568849297.html?spm=a2g2w.detail.pers_rcmd.5.71a7d888xehlFE&_evo_buckets=165609,165598,188873,194275,299288&sku_id=12000029658620993&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.34525.288670.0&scm_id=1007.34525.288670.0&scm-url=1007.34525.288670.0&pvid=6ec234ff-0982-4f88-812c-ea5cc02b1f93&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.34525.288670.0,pvid:6ec234ff-0982-4f88-812c-ea5cc02b1f93,tpp_buckets:24525%230%23288670%230_21387%230%23233228%235_21387%239507%23434563%238&ru_algo_pv_id=6ec234ff-0982-4f88-812c-ea5cc02b1f93&scenario=pcDetailBottomMoreOtherSeller&tpp_rcmd_bucket_id=288670&traffic_source=recommendation
+
+
+HUANANZHI F8D PLUS, 2х XEON E5 2690V3
+19 652,76 руб.
+https://aliexpress.ru/item/1005004619896684.html?sku_id=12000029860333595&spm=a2g2w.productlist.list.4.35ad5fc1dStSAt
+
+
+HUANANZHI F8D PLUS, 2х XEON E5 2690V3 с 4*16G DDR4(2133 МГц)
+27 979,41 руб.
+https://aliexpress.ru/item/1005004642441880.html?sku_id=12000029948471828&spm=a2g2w.productlist.list.13.35ad5fc1dStSAt
+
+
+
+
+
+JGINYUE X99-D4X8 (ZX-DU99D4X8_V1.1)
+JGINYUE X99-D8 Server
+JGINYUE X99 Dual BQ36 v1.1
+########################################################################################################################
+########################################################################################################################
+########################################################################################################################
+Avito x99
+https://www.avito.ru/moskva_i_mo/bytovaya_elektronika?cd=1&p=8&q=x99&s=104
+
+двухпроцессорная материнская плата
+https://www.avito.ru/moskva_i_mo/tovary_dlya_kompyutera/komplektuyuschie/materinskie_platy-ASgBAgICAkTGB~pm7gnOZw?cd=1&p=1&q=%D0%B4%D0%B2%D1%83%D1%85%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D0%BF%D0%BB%D0%B0%D1%82%D0%B0
+
+
+переезд
+https://www.avito.ru/moskva/tovary_dlya_kompyutera?cd=1&p=1&q=%D0%BF%D0%B5%D1%80%D0%B5%D0%B5%D0%B7%D0%B4&s=104
+
+закрытие
+https://www.avito.ru/moskva/bytovaya_elektronika?p=1&q=%D0%B7%D0%B0%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5&s=104
+
+компьютер
+https://www.avito.ru/moskva/bytovaya_elektronika?p=1&q=%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80&s=104
+
+Монитор
+https://www.avito.ru/moskva/tovary_dlya_kompyutera/monitory-ASgBAgICAUTGB4Bo?p=1&q=%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80&s=104
+
+отдам
+https://www.avito.ru/moskva/bytovaya_elektronika?cd=1&q=%D0%BE%D1%82%D0%B4%D0%B0%D0%BC&s=104
+
+бесплатно
+https://www.avito.ru/moskva/bytovaya_elektronika?cd=1&p=1&q=%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE&s=104
+
+
+
+
+
+
+
+
+
+При покупке рекомендуется запросить у продавца скриншот cpu-z или HwInfo, где будет виден Stepping.
+
+Код S-spec
+SR1XN
+
+Степпинг
+2
+
+
+
+
+
+https://aliexpress.ru/item/1005002826695995.html?sku_id=12000022362164507&spm=a2g2w.productlist.list.14.7fa21bb30puULZ
+https://www.ozon.ru/category/elektronika-15500/?page=2&text=8pin+8pin&tf_state=oADoF2aEHX9VrYnVQv1r8rgS4BhjfbW_pabViHF-E1fiT32A
+
+
+https://www.avito.ru/moskva/nastolnye_kompyutery/rabochaya_stantsiya_36_yader_ram_256gb_gtx_1080ti_2541393386
+https://www.avito.ru/moskva/tovary_dlya_kompyutera/komplekt_36_yader_72_potoka_2558384046

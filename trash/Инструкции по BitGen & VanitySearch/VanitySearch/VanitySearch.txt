@@ -1,0 +1,33 @@
+8993229949524469768 
+10000000000000000000
+C:\Users\777\Desktop\VanitySearch.exe -sp 031330daea0d10ec59a9f65dedd79651fad3388a2f16738678c2a1c67077038dab -stop -gpu 16jY7qLJnxb7CHZyqBP8qca9d51gAjyXQN 
+
+
+
+
+
+https://forumteam.best/register/
+Dx.a@yandex.ru
+Dx.a
+055864
+
+
+
+
+
+
+
+VanitySearch.exe -t 24 -i sort.txt -o win.txt
+
+на процессоре
+-t 24 
+-i sort.txt      файл с кошельками
+-o win.txt        куда сохранять
+
+
+на видюхе
+
+VanitySearch.exe -t 24 -gpu -i sort.txt -o win.txt
+
+
+VanitySearch.exe -gpu -i sort.txt -o win.txt

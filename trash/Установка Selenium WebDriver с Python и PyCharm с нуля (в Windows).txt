@@ -1,0 +1,1 @@
+https://alexsl.medium.com/installing-selenium-webdriver-with-python-and-pycharm-from-scratch-on-windows-e4c713043882
